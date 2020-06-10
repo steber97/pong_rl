@@ -1,8 +1,15 @@
-chiedere come usare l'espressione "reqard shaping"
+chiedere come usare l'espressione "reward shaping"
 quanto lunghe devono essere le risposte? RISPOSTA: 1-2 frasi
 va bene usare la lambda per la custom loss?
 adap baseline con una o due network?
-conferma sulla question3
+conferma sulla question3 (formula e conferma risposta giusta)
+simple baseline: chiedere se media calcolata sul singolo episodio va bene o e' una delle opzioni facili che si possono fare.
+pulire il codice e' importante?
+
+Ex 3
+question 1: chiedere per l'ordine dei valori del vettore stato (dati di imshow non hanno molto senso).
+
+
 
 TODO:
 provare più learning rates
