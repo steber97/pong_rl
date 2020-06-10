@@ -1,0 +1,8 @@
+chiedere come usare l'espressione "reqard shaping"
+quanto lunghe devono essere le risposte? RISPOSTA: 1-2 frasi
+va bene usare la lambda per la custom loss?
+adap baseline con una o due network?
+conferma sulla question3
+
+TODO:
+provare più learning rates
