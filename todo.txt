@@ -1,4 +1,0 @@
-scrivere meglio esercizio 3 - anche plottare per 5-6 valori dello stato fissati da noi e rilevanti
-question 3 ex1 roba col discount factor + mettere formula
-riassumere risposte ex1
-
